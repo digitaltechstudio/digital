@@ -1,0 +1,205 @@
+.banner{
+    width:100%;
+    height:524px;
+    background-image:linear-gradient(to right, #352597, #8686ff);
+    
+    background-image:url("marketing-bg6-1024x538.png");
+    background-size:cover;
+    background-image:linear-gradient(to right, #352597, #8686ff);
+    
+    
+}
+
+
+
+.navbar{
+    width:100%;
+    margin:auto;
+    
+    align-items: center;
+    justify-content:space-between;
+    display: flex;
+    background-color: bisque;
+    
+
+
+}
+.logo{height:60px;
+    width:300px;
+    cursor: pointer;
+}
+
+.navbar ul li{
+    list-style:none;
+    display:inline-block;
+    margin:0 15px;
+    
+    
+ }
+ .navbar ul li a{
+    color:black;
+    font-size:20px;
+    text-decoration:none;
+
+    
+
+
+ }
+ 
+ 
+
+ .content{
+    width:100%;
+    position:absolute;
+    top:50%;
+    transform: translateY(-50%);
+    text-align:center;
+    color:white;
+}
+.content h1{
+    font-size:60px;
+    margin-top:80px;
+
+}
+.content p{
+    font-size:25px;
+
+}
+.content1{
+    margin-top:120px;
+    text-align:center;
+
+}
+.contanier{
+    display:flex;
+    
+
+}
+.contanier .item {
+    background-color: rgb(179, 214, 245);
+    margin:50px;
+    padding:20px;
+    height:200px;
+    width:200px;
+    text-align:center;
+    border-radius:25px;
+    font-size: 25px;
+    
+}
+.contanier .item1 {
+    background-color: rgb(179, 214, 245);
+    margin:50px;
+    padding:20px;
+    height:200px;
+    width:200px;
+    text-align:center;
+    border-radius:25px;
+    font-size: 25px;
+}
+.contanier .item2 {
+    background-color: rgb(179, 214, 245);
+    margin:50px;
+    padding:20px;
+    height:200px;
+    width:200px;
+    text-align:center;
+    border-radius:25px;
+    font-size: 25px;
+}
+.contanier .item3 {
+    background-color: rgb(179, 214, 245);
+    margin:50px;
+    padding:20px;
+    height:200px;
+    width:200px;
+    text-align:center;
+    border-radius:25px;
+    font-size: 25px;
+}
+.contanier1{
+    display:flex;
+}
+.contanier1 .item {
+    background-color: rgb(179, 214, 245);
+    margin:50px;
+    padding:20px;
+    height:200px;
+    width:200px;
+    text-align:center;
+    border-radius:25px;
+    font-size: 25px;
+}
+.contanier1 .item1 {
+    background-color: rgb(179, 214, 245);
+    margin:50px;
+    padding:20px;
+    height:200px;
+    width:200px;
+    text-align:center;
+    border-radius:25px;
+    font-size: 25px;
+}
+.contanier1 .item2 {
+    background-color: rgb(179, 214, 245);
+    margin:50px;
+    padding:20px;
+    height:200px;
+    width:200px;
+    text-align:center;
+    border-radius:25px;
+    font-size: 25px;
+}
+.contanier1 .item3 {
+    background-color: rgb(179, 214, 245);
+    margin:50px;
+    padding:20px;
+    height:200px;
+    width:200px;
+    text-align:center;
+    border-radius:25px;
+    font-size: 25px;
+    
+    
+}
+.contanier2{
+    display:flex;
+    
+
+}
+.contanier2 .item1{
+    margin-top:250px;
+    text-align:center;
+    font-size:40px;
+
+}.contanier2 .item1 .button{
+    background-color: rgb(17, 0, 255);
+    font-size:20px;
+    color:white;
+    margin-top:20px;
+    padding:10px;
+    border-radius:25px;
+}
+ .banner1{
+    width:100%;
+    height:524px;
+    background-image:url("marketing-bg6-1024x538.png");
+    background-size: cover;
+}
+ .content2{
+    text-align:center;
+    justify-content: center;
+
+}
+
+.contanier3 {
+    display:flex;
+    background-image: linear-gradient(#352597, #8686ff);
+
+    
+
+        
+
+}
+
+
+
